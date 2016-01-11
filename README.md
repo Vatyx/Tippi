@@ -1,6 +1,6 @@
 # Pre-work - Tippi
 
-<img src='http://imgur.com/PWVHMl8' title='Icon' width='150px' alt='Icon' />
+<img src='http://i.imgur.com/PWVHMl8.png' title='Icon' width='150px' alt='Icon' />
 
 **Tippi** is a tip calculator application for iOS.
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/RzKZLZb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/RzKZLZb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
