@@ -41,6 +41,7 @@
 		2454F2611C4327EE006FB190 /* Raleway-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2454F2601C4327EE006FB190 /* Raleway-ExtraLight.ttf */; };
 		2454F2631C43281B006FB190 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2454F2621C43281B006FB190 /* Raleway-Light.ttf */; };
 		2454F2651C43934D006FB190 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2454F2641C43934D006FB190 /* SettingsViewController.swift */; };
+		2454F2691C4490D4006FB190 /* ios in Resources */ = {isa = PBXBuildFile; fileRef = 2454F2681C4490D4006FB190 /* ios */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -101,6 +102,7 @@
 		2454F2601C4327EE006FB190 /* Raleway-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraLight.ttf"; sourceTree = "<group>"; };
 		2454F2621C43281B006FB190 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
 		2454F2641C43934D006FB190 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		2454F2681C4490D4006FB190 /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ios; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				2454F1FE1C3D71D1006FB190 /* AppDelegate.swift */,
 				2454F2001C3D71D1006FB190 /* ViewController.swift */,
 				2454F2051C3D71D1006FB190 /* Assets.xcassets */,
+				2454F2681C4490D4006FB190 /* ios */,
 				2454F2071C3D71D1006FB190 /* LaunchScreen.storyboard */,
 				2454F20A1C3D71D1006FB190 /* Info.plist */,
 			);
@@ -342,6 +345,7 @@
 				2454F24F1C3DEA1B006FB190 /* Roboto-ThinItalic.ttf in Resources */,
 				2454F25B1C3E0477006FB190 /* man4-01.png in Resources */,
 				2454F2041C3D71D1006FB190 /* Main.storyboard in Resources */,
+				2454F2691C4490D4006FB190 /* ios in Resources */,
 				2454F2501C3DEA1B006FB190 /* RobotoCondensed-Bold.ttf in Resources */,
 				2454F2481C3DEA1B006FB190 /* Roboto-Italic.ttf in Resources */,
 				2454F24D1C3DEA1B006FB190 /* Roboto-Regular.ttf in Resources */,
